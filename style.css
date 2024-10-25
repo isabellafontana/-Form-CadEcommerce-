@@ -5,10 +5,7 @@
 }
 nav#menu ul{
     text-transform: uppercase;
-    list-style: none;
     position:absolute;
-    top: 60px;
-    left: 930px;
 }
 nav#menu{
     display: block;
